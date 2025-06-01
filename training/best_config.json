@@ -1,0 +1,15 @@
+{
+  "epochs": 50,
+  "lr_head": 0.009068099463380068,
+  "dropout_p": 0.3533501059545553,
+  "batch_size": 3,
+  "hidden_dim": 64,
+  "fall_weight": 2.9697005093781668,
+  "pruning_lag": 27,
+  "match_thresh": 0.8362864005981809,
+  "speed_frames": 18,
+  "weight_decay": 1.3384953887797908e-05,
+  "conf_threshold": 0.4024457517096514,
+  "loss_iou_thresh": 0.3574028358163816,
+  "num_hidden_layers": 2
+}
